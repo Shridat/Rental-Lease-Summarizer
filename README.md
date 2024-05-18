@@ -220,5 +220,4 @@ I have recently graduated from California State University, Fullerton.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at pshrinivas
-@gmail.com
+If you have any feedback, please reach out to us at pshrinivas264@gmail.com
